@@ -1,0 +1,12 @@
+.clock {
+  font-size: 40px;
+  background: #aa1c1c;
+  background: linear-gradient(0deg, #aa1c1c 0%, #340202 100%);
+  color: #fff;
+  display: inline-block;
+  padding: 30px;
+  border-radius: 10px;
+  font-family: "Open Sans";
+}
+
+/*# sourceMappingURL=style.css.map */
